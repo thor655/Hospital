@@ -5,7 +5,7 @@ class app:
     def __init__(self):
         self.destroy()
 
-        self.name = 'Rajesh'
+        self.name = 'Dhruv'
         self.age = 25
         self.height = 175
         self.weight = 67
